@@ -53,7 +53,7 @@ const Products = () => {
               autoPlay
               muted
               loop
-              src="./public/Arqitel project video 4_3.webm"
+              src="/Arqitel project video 4_3.webm"
             ></video>
           </motion.div>
           <motion.div
@@ -65,7 +65,7 @@ const Products = () => {
               autoPlay
               muted
               loop
-              src="./public/webflow-education-promo.mp4"
+              src="/webflow-education-promo.mp4"
             ></video>
           </motion.div>
           <motion.div
@@ -77,7 +77,7 @@ const Products = () => {
               autoPlay
               muted
               loop
-              src="./public/YIR website 2022 4_3_VP9.webm"
+              src="/YIR website 2022 4_3_VP9.webm"
             ></video>
           </motion.div>
           <motion.div
@@ -89,7 +89,7 @@ const Products = () => {
               autoPlay
               muted
               loop
-              src="./public/TTR project video 4_3_H.264.webm"
+              src="/TTR project video 4_3_H.264.webm"
             ></video>
           </motion.div>
         </motion.div>
